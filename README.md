@@ -72,4 +72,8 @@ Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mud
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9a69bdbe-31fe-4541-9909-f0595c75c055"alt="Tampilan Homepage" width="600">
+    <img src="https://github.com/user-attachments/assets/9a69bdbe-31fe-4541-9909-f0595c75c055"alt="Tampilan Homepage" width="600">
+    <img src="https://github.com/user-attachments/assets/9a69bdbe-31fe-4541-9909-f0595c75c055"alt="Tampilan Homepage" width="600">
+    <img src="https://github.com/user-attachments/assets/9a69bdbe-31fe-4541-9909-f0595c75c055"alt="Tampilan Homepage" width="600">
+    <img src="https://github.com/user-attachments/assets/9a69bdbe-31fe-4541-9909-f0595c75c055"alt="Tampilan Homepage" width="600">
 </div>
