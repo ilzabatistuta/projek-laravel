@@ -31,7 +31,7 @@ Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan us
 Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir dengan baik, memudahkan pengguna dalam memperbarui informasi produk.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f1bca197-d177-4424-bb1d-9ed8deb9ce52" alt="Tampilan Edit Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/33bbc40d-146c-41e2-b41a-f9cf3fb727ed" alt="Tampilan Edit Produk" width="600">
 </div>
 
 ---
