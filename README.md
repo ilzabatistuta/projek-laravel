@@ -40,7 +40,7 @@ Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir de
 Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, memastikan data tersimpan dengan aman dan terorganisir.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/656b2618-ddca-4156-9822-663944b0dae9" alt="Database di MySQL" width="600">
+  <img src="https://github.com/user-attachments/assets/15201317-cb84-453e-8d75-17a60a4c217f" alt="Database di MySQL" width="600">
 </div>
 
 ---
