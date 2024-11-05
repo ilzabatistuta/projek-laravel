@@ -49,7 +49,7 @@ Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, 
 Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/68a39b73-4bee-4be3-8845-ef2745a7333e" alt="Tampilan Delete Produk" width="600">
+  <img src="https://github.com/user-attachments/assets/6db0de73-9927-444d-a4fb-26e25d6f4ac9" alt="Tampilan Delete Produk" width="600">
 </div>
 
 
