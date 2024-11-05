@@ -4,7 +4,7 @@
 Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mudah dan cepat untuk mengakses fitur-fitur utama.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6db0de73-9927-444d-a4fb-26e25d6f4ac9" alt="Tampilan Pada Menu Homepage" width="600">
+  <img src= "https://github.com/user-attachments/assets/6db0de73-9927-444d-a4fb-26e25d6f4ac9" alt="Tampilan Pada Menu Homepage" width="600">
 </div>
 
 ---
@@ -40,7 +40,7 @@ Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir de
 Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, memastikan data tersimpan dengan aman dan terorganisir.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/15201317-cb84-453e-8d75-17a60a4c217f" alt="Database di MySQL" width="600">
+  <img src= "https://github.com/user-attachments/assets/15201317-cb84-453e-8d75-17a60a4c217f" alt="Database di MySQL" width="600">
 </div>
 
 ---
@@ -49,7 +49,7 @@ Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, 
 Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6db0de73-9927-444d-a4fb-26e25d6f4ac9" alt="Tampilan Delete Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/ec380af9-6491-4e18-bab9-ade42df76661" alt="Tampilan Delete Produk" width="600">
 </div>
 
 
