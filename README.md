@@ -13,7 +13,7 @@ Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mud
 Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pengguna dapat melihat dan mengelola produk secara efisien.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/481eaff4-cc56-472d-a4ab-07f19a38237f" alt="Tampilan Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/4032d6ec-d9c3-4071-8417-b7212d0a1674" alt="Tampilan Produk" width="600">
 </div>
 
 ---
