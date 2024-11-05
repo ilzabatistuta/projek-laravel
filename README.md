@@ -22,7 +22,7 @@ Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pen
 Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan user-friendly.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ed6ad95-07b9-4f5c-ba51-1002d3082734" alt="Tampilan Add Produk" width="600">
+  <img src= "https://github.com/user-attachments/assets/4f561d71-8218-45bf-84f8-fd20f48592c6" alt="Tampilan Add Produk" width="600">
 </div>
 
 ---
